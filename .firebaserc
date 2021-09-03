@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "races-app-1b0f9"
+  },
+  "targets": {
+    "races-app-1b0f9": {
+      "hosting": {
+        "races-app-web": [
+          "races-app-1b0f9"
+        ]
+      }
+    }
+  }
+}
